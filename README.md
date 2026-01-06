@@ -1,6 +1,6 @@
 # ESMS-Net: Enhancing Semantic-Mask Segmentation Network With Pyramid Atrousformer for Remote Sensing Image
 
-![network](image/network.png)
+![network](image/Network.png)
 
 ## Abstract
 
@@ -42,7 +42,7 @@ python main.py
 
 ## Seg-Results
 ![Potsdam](image/Potsdam.png)
-![Vaihingen](image/Vaihingen.png)
+
 
 ## Citation
 ```bash
